@@ -1,3 +1,0 @@
-/Volumes/T5/Really/SkiaFly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/T5/Really/SkiaFly/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/T5/Really/SkiaFly/cmake-build-debug/CMakeFiles/SkiaFly.dir
