@@ -16,3 +16,11 @@
   
 - third_party
   存放第三方库源码
+  
+- resources
+  存放资源文件
+  
+
+## 学习资源
+1. https://fiddle.skia.org/named/
+
