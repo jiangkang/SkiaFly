@@ -3,7 +3,8 @@
 //
 
 #include "demo.h"
-#include "bitmap_allocPixels.cpp"
+//#include "bitmap_allocPixels.cpp"
+#include "draw_basic_shape.cpp"
 
 void start() {
     drawDemo();
